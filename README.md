@@ -460,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://cordum.io/favicon.ico" height="14"/> [Cordum](https://github.com/cordum-io/cordum) - Out-of-process control plane for autonomous AI agents. Pre-dispatch policy enforcement, approval gates, and signed audit trails for production governance.
 
 <br />
 
